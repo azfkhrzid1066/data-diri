@@ -1,5 +1,5 @@
 org 100h
-mulai:MOV CX,90
+mulai:MOV CX,9D
 MOV AH,02h
 MOV DL,38h
 ulang:INT 21h
